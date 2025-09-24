@@ -12,7 +12,7 @@ Soy un Estudiante en formación, apasionado/a por la **ciencia de datos y el an�
 
 Este repositorio está organizado en carpetas que contienen los notebooks y recursos de mis proyectos.
 
-  * **`Trabajo-Integrador`**: Este es el trabajo más completo, donde se consolida todo lo aprendido. Puedes acceder directamente haciendo clic en el siguiente enlace: **[Trabajo Integrador en Google Colab]([Tu link al notebook del trabajo integrador])**.
+  * **`Trabajo-Integrador`**: Este es el trabajo más completo, donde se consolida todo lo aprendido. Puedes acceder directamente haciendo clic en el siguiente enlace: **Trabajo Practico Integrador 1/TP_Integrador_1.ipynb**.
 
 -----
 
