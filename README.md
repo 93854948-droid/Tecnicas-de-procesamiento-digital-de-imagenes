@@ -43,7 +43,7 @@ No dudes en contactarme si tienes alguna pregunta o si quieres colaborar en alg√
 
   * **Nombre**: Josnel Emerson Mallqui Espinoza
   * **Email**: 93854948@ifts24.edu.ar
-  * **GitHub**: [Tu link de GitHub]
+  * **GitHub**: https://github.com/93854948-droid
 
 
 Este repositorio se encuentra bajo la **licencia MIT**. Puedes leer los t√©rminos completos en el archivo `LICENSE`.
