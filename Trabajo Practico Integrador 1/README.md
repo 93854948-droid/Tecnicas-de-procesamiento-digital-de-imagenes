@@ -4,11 +4,11 @@ Este proyecto tiene como objetivo demostrar la aplicación de diversas técnicas
 Contenido del Proyecto
 El proyecto se centra en tres imágenes de documentos de texto, cada una con un problema específico que requiere una solución diferente:
 
-imagen_buena.jpg: Una imagen de referencia, de buena calidad, utilizada para fines comparativos.
+imagen_buena.jpg: 
 
-imagen_rotada.jpg: Una imagen que se encuentra rotada y necesita ser enderezada para ser legible.
+imagen_rotada.jpg: 
 
-imagen_con_sombras.jpg: Una imagen con sombras que oscurecen el texto, afectando su visibilidad.
+imagen_con_sombras.jpg: 
 
 Técnicas Aplicadas
 Para abordar los problemas de cada imagen, se utilizaron las siguientes técnicas de procesamiento:
